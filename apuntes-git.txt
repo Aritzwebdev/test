@@ -1,0 +1,3 @@
+git clone: colanar repositorio de internet a git
+git status: para ver si hay algo que añadir a git
+git add: añadir algun archivo a git
